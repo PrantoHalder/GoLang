@@ -2,9 +2,8 @@ package main
 
 import "fmt"
 
-func main() {
-	var username string = "Pranto Halder shovon"
-	fmt.Println(username)
-	var age int = 25
-	fmt.Println("The age ", age)
+func main () {
+	fmt.Println("this is main function ")
+	input()
+	input2()
 }
